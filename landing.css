@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Volkhov', serif;
+    color: white;
+    font-size: 80px;
+    margin-top: 50%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin-left: 50%;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: black;
+    border-color: #343a40;
+}

@@ -1,11 +1,11 @@
 .container {
-	max-width: 500px;
+	max-width: 800px;
   	margin: auto;
   	padding-top: 25px;
   	text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
 	font-family: 'Volkhov', serif;
 	/*text-align: center;*/
 }
@@ -13,4 +13,13 @@ h1, h2, h3 {
 p {
 	font-family: 'Source Sans Pro', sans-serif;
 	/*text-align: center;*/
+}
+
+.btn-default {
+	border-color: black;
+}
+
+.btn-default:hover{
+	background-color: black;
+	color: white;
 }
